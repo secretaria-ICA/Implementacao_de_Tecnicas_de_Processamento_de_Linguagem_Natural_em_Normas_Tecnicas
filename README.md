@@ -7,7 +7,7 @@ It parses pre-downloaded PDF files,  pre-process and saves the text into CSV fil
 
 The text is tokenized and Word2vec and Doc2vec Gensim models are trained.
 
-Principal Component Analysis is applied to word2vec in equivalent text (Petrobras technical documents in Portuguese and English) providing visual cues for the technical documents trained word2vec models both in languages.
+Principal Component Analysis is applied to Word2Cec in equivalent text (Petrobras technical documents in Portuguese and English) providing visual cues for the technical documents trained word2vec models both in languages.
 
 Word similarly is used to demonstrate the accuracy of the model in sample words.
 
