@@ -1,7 +1,13 @@
 # Implementação de Técnicas de Processmento de Linguagem Natural em Normas Técnicas 
 
-### Aluno: José Eduardo Dias Junior
-### Orientador: Leonardo Alfredo Forero Mendoza
+#### Aluno: [José Eduardo Dias Junior](https://github.com/jedias/).
+#### Orientador: [Leonardo Alfredo Forero Mendoza]
+
+---
+
+Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
+
+- [Link para o código](https://github.com/jedias/BI-Master/blob/main/TrabalhoFinal_BI_Master_Documentos_T%C3%A9cnicos.ipynb). 
 
 ## Resumo
 
@@ -43,3 +49,11 @@ Basic operations using the vector models are demonstrated:
 To Do:
 
 Improve Doc2Vec similarly seach user interface.
+
+---
+
+Matrícula: 192.190.139
+
+Pontifícia Universidade Católica do Rio de Janeiro
+
+Curso de Pós Graduação *Business Intelligence Master*
