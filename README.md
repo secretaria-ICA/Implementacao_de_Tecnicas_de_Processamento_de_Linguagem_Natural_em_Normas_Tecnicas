@@ -1,7 +1,7 @@
 # Implementação de Técnicas de Processmento de Linguagem Natural em Normas Técnicas 
 
 #### Aluno: [José Eduardo Dias Junior](https://github.com/jedias/).
-#### Orientador: [Leonardo Alfredo Forero Mendoza]
+#### Orientador: [Leonardo Alfredo Forero Mendoza](https://www.maxwell.vrac.puc-rio.br/colecao.php?strSecao=autor&nrSeq=24891@1&nrseqaut=13202).
 
 ---
 
@@ -11,7 +11,7 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 ## Resumo
 
-Esse "notebook" aplica Processamento de Linguagem Natural a um conjunto restrito de textos: normas técnicas de engenharia da Petrobras, demonstrando diferentes aproximações e applicações.
+Esse "notebook" aplica Processamento de Linguagem Natural a um conjunto restrito de textos: normas técnicas de engenharia da Petrobras, demonstrando diferentes técnicas e aplicações. Seu objetivo é auxiliar na redução de inconsistências através da aproximação de vocabulários. 
 
 Ele analisa arquivos em PDF, pre-processa e exporta seu conteúdo para um arquivo CSV, então o texo é tokenizado. 
 
@@ -33,7 +33,7 @@ Recomendações futuras:
 
 
 ## Abstract
-This notebook is applies Natural Language Processing Text Vetorization to a set of restricted corpora: thecnical engineering documents from Petrobras, demonstrating different aproachs and applications.
+This notebook is applies Natural Language Processing Text Vetorization to a set of restricted corpora: thecnical engineering documents from Petrobras, demonstrating different aproachs and applications. The main objective is to reduce inconsistencies by reducing the vocabulary gaps. 
 
 It parses pre-downloaded PDF files,  pre-process and saves the text into CSV files as a checkpoint. 
 
