@@ -1,13 +1,13 @@
-# Implementação de Técnicas de Processmento de Linguagem Natural em Normas Técnicas 
+# Implementação de Técnicas de Processamento de Linguagem Natural em Normas Técnicas 
 
 #### Aluno: [José Eduardo Dias Junior](https://github.com/jedias/).
-#### Orientador: [Leonardo Alfredo Forero Mendoza](https://www.maxwell.vrac.puc-rio.br/colecao.php?strSecao=autor&nrSeq=24891@1&nrseqaut=13202).
+#### Orientador: [Leonardo Alfredo Forero Mendoza](https://github.com/leofome8).
 
 ---
 
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
-- [Link para o código](https://github.com/jedias/BI-Master/blob/main/TrabalhoFinal_BI_Master_Documentos_T%C3%A9cnicos.ipynb). 
+- [Link para o código](https://github.com/jedias/BI-Master). 
 
 ## Resumo
 
